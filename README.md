@@ -37,3 +37,11 @@ smart-contracts/
 ├── tsconfig.json
 ├── .env
 └── README.md
+
+
+
+Tokenization 
+1) Only the owner can mint the dTesla
+2) Anyone can redeem dtSLA for USDC or "the stable coin" of choice
+3) CHainlink functions will kick off a TSLA
+4) The user will have to then call finish Redeem to get their USDC
